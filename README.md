@@ -1,16 +1,18 @@
 ## Hi there 👋
+I'm a Computer Science student passionate about problem solving and continous learning.
 
-<!--
-**mahi2025/mahi2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My journey in tech began through ALX Full-Stack software Engineering program, where I gained a strong foundation in C programming and Bash scripting. The program helped me to improve my problem solving and technical skills. 
 
-Here are some ideas to get you started:
+I’m currenly learning Java and Obejct-Oriented programming as part of my CS studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Languages & Tools
+<p align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </p>
+
+
+Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahletmasresh08@gmail.com)
