@@ -3,7 +3,7 @@ I'm a Computer Science student passionate about problem solving and continous le
 
 My journey in tech began through ALX Full-Stack software Engineering program, where I gained a strong foundation in C programming and Bash scripting. The program helped me to improve my problem solving and technical skills. 
 
-I’m currenly learning Java and Obejct-Oriented programming as part of my CS studies.
+I’m currenly learning Data Structure and Algorithm and Java-Obejct-Oriented programming as part of my CS studies.
 
 
 
