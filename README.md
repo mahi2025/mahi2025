@@ -9,9 +9,6 @@ Currently, I am learning Smart Contract Development, Web3, and Blockchain Securi
 - Solidity & Ethereum fundamentals
 - Smart contract design & testing
 
-##  What I Build
-- Small Solidity contracts
-
 ## Languages & Tools
 <p align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </p>
 
