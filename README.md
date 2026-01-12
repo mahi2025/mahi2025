@@ -15,7 +15,6 @@ Currently, I am learning Smart Contract Development, Web3, and Blockchain Securi
 
 
 ## Contact with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)  [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahletmasresh08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)          [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/MasreMahi91672)          [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahletmasresh08@gmail.com)
 
 
-This profile documents my learning journey, not expertise (yet).
