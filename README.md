@@ -3,11 +3,7 @@ I'm a Computer Science student passionate about problem solving and continous le
 
 My journey in tech began through ALX Full-Stack software Engineering program, where I gained a strong foundation in C programming and Bash scripting. The program helped me to improve my problem solving and technical skills. 
 
-Currently, I am learning Smart Contract Development, Web3, and Blockchain Security.
-
-## What I’m Currently Learning
-- Solidity & Ethereum fundamentals
-- Smart contract design & testing
+Currently, I am developing my skill as full-stack developer integrating web security.
 
 ## Languages & Tools
 <p align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
