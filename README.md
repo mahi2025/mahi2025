@@ -1,17 +1,14 @@
 ## Hello, I'm Mahlet Masresha
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahletmasresh08@gmail.com)
-
-🌍 Addis Ababa, Ethiopia 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)  | 
-[![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/MasreMahi91672)          
-
+        
 I'm a Computer Science 3rd year student passionate about problem solving and continous learning.
 
 My journey in tech began through ALX Full-Stack software Engineering program, where I gained a strong foundation in C programming and Bash scripting. The program helped me to improve my problem solving and technical skills. 
 
 Currently, I am developing my skill in Data Engineering and machine learning and participatng in GCI Global. 
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahletmasresh08@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)  | 
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/MasreMahi91672) 
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -36,7 +33,7 @@ Apr/2026 – present, Online
 Sep/2024 – Jun/2027, Addis Ababa, Ethiopia
 
 
-#### Pre-Engineering**
+#### Pre-Engineering
 
 **Addis Ababa Science and Technology University** 
 
