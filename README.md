@@ -2,10 +2,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahletmasresh08@gmail.com)
 
-📞 +251930135628  
-
 🌍 Addis Ababa, Ethiopia 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)  | 
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/MasreMahi91672)          
 
 I'm a Computer Science 3rd year student passionate about problem solving and continous learning.
@@ -24,15 +23,16 @@ Currently, I am developing my skill in Data Engineering and machine learning and
 ## Education
 
 **GCI 2026 Data Science Traine**
-
 *Matsuo-Iwasawa Lab/GCI Global*
 
 Apr/2026 – present, Online
+
 
 **Computer Science**  
 *Hope Enterprise Unversity College*
 
 Sep/2024 – Jun/2027, Addis Ababa, Ethiopia
+
 
 **Pre-Engineering**
 
