@@ -22,21 +22,21 @@ Currently, I am developing my skill in Data Engineering and machine learning and
 
 ## Education
 
-**GCI 2026 Data Science Traine**
+#### GCI 2026 Data Science Traine
 
 **Matsuo-Iwasawa Lab/GCI Global**
 
 Apr/2026 – present, Online
 
 
-**Computer Science**  
+#### Computer Science 
 
 **Hope Enterprise Unversity College**
 
 Sep/2024 – Jun/2027, Addis Ababa, Ethiopia
 
 
-**Pre-Engineering**
+#### Pre-Engineering**
 
 **Addis Ababa Science and Technology University** 
 
