@@ -1,4 +1,4 @@
-## Hello, I'm Mahlet Masresha
+## Hi there, I'm Mahlet 
         
 I'm a Computer Science 3rd year student passionate about problem solving and continous learning.
 
