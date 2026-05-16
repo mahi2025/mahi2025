@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
 # Hello, I'm Mahlet 
 
-# Aspiring Software Engineer | Cybersecurity Enthusiast
+## Aspiring Software Engineer | Cybersecurity Enthusiast
 
         
 I'm 3rd year computer Science student passionate about problem solving and continous learning.
@@ -17,7 +17,6 @@ Currently, I'm focused on backend development and web secuirty.
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mahletmasresh08@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)  | 
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/MasreMahi91672) 
 
-## Languages and Tools
 ## Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
