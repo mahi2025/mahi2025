@@ -68,7 +68,7 @@ Currently, I'm focused on backend development and web secuirty.
   <img src="https://img.shields.io/badge/Requestly-FF6B00?style=for-the-badge&logo=requestly&logoColor=white" alt="Requestly" />
 </p>
 
-## Projects
+## Recent Projects
 
 ### werfa system
  **Tech Stack:** Javascript and css (updated to React), Node.js, PostgreSQL
@@ -91,15 +91,6 @@ Currently, I'm focused on backend development and web secuirty.
 
 **Cooking**
 
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahi2025&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi2025&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
 ## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahi2025&theme=tokyonight&row=1&column=6" />
