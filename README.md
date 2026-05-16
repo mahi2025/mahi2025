@@ -1,12 +1,16 @@
 <div align="center">
 
-## Hello, I'm Mahlet Masresha
+# Hello, I'm Mahlet 
+
+# Aspiring Software Engineer | Cybersecurity Enthusiast
+
         
-I'm a Computer Science 3rd year student passionate about problem solving and continous learning.
+I'm 3rd year computer Science student passionate about problem solving and continous learning.
 
-My journey in tech began through ALX Full-Stack software Engineering program, where I gained a strong foundation in C programming and Bash scripting.
+My journey in tech began through ALX Full-Stack Software Engineering program, where I gained a strong foundation in C programming, Linux, and Bash scripting.
 
-Currently, I am developing my skill in Backend development and web secuirty. 
+Currently, I'm focused on backend development and web secuirty. 
+
 </div>
 
 ## Connect with me 
@@ -66,10 +70,18 @@ Currently, I am developing my skill in Backend development and web secuirty.
 </p>
 
 ## Projects
-# name
-**Tech Stack:** React, Node.js, PostgreSQL
-🔗 [Live Demo](https://your-demo-link.com)  
-🔗 [Repository](https://github.com/yourusername/project-name)
+
+### werfa system
+ **Tech Stack:** Javascript and css (updated to React), Node.js, PostgreSQL
+
+🔗 [Live Demo]()  
+
+🔗 [Repository](https://github.com/mahi2025/Werfa_System)
+
+### lend
+ **Tech Stack:** Node.js, Express, PostgreSQL
+
+🔗 [Repository](https://github.com/mahi2025/lend)
 
 ## Hobbies
 **Volunteering**
@@ -81,15 +93,14 @@ Currently, I am developing my skill in Backend development and web secuirty.
 **Cooking**
 
 ## GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahi2025&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi2025&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahi2025&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi2025&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-## GitHub Contributions Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi2025&theme=tokyo-night" />
-</p>
+---
 ## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahi2025&theme=tokyonight&row=1&column=6" />
