@@ -2,8 +2,6 @@
 
 # Hello, I'm Mahlet 
 
-## Developer | Cybersecurity Enthusiast
-
         
 I'm 3rd year computer Science student passionate about problem solving and continous learning.
 
