@@ -2,9 +2,6 @@
 
 # Hello, I'm Mahlet 
 
-        
-I'm 3rd year computer Science student passionate about problem solving and continous learning.
-
 My journey in tech began through ALX Full-Stack Software Engineering program, where I gained a strong foundation in C programming, Linux, and Bash scripting.
 
 Currently, I'm focused on backend development and web secuirty. 
@@ -65,20 +62,6 @@ Currently, I'm focused on backend development and web secuirty.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Requestly-FF6B00?style=for-the-badge&logo=requestly&logoColor=white" alt="Requestly" />
 </p>
-
-## Recent Projects
-
-### werfa system
- **Tech Stack:** Javascript and css (updated to React), Node.js, PostgreSQL
-
-🔗 [Live Demo]()  
-
-🔗 [Repository](https://github.com/mahi2025/Werfa_System)
-
-### lend
- **Tech Stack:** Node.js, Express, PostgreSQL
-
-🔗 [Repository](https://github.com/mahi2025/lend)
 
 ## Hobbies
 **Volunteering**
