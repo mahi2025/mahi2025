@@ -8,10 +8,6 @@ Currently, I'm focused on backend development and web secuirty.
 
 </div>
 
-## Connect with me 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mahimasre2025@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimasre2025/)  | 
-[![X](https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white)](https://x.com/MasreMahi91672) 
-
 ## Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
