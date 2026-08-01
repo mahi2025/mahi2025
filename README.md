@@ -4,7 +4,7 @@
 
 My journey in tech began through ALX Full-Stack Software Engineering program, where I gained a strong foundation in C programming, Linux, and Bash scripting.
 
-Currently, I'm focused on backend development and web secuirty. 
+Currently, I'm focusing building secure and scalable applications and systems. 
 
 </div>
 
